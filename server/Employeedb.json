@@ -1,0 +1,56 @@
+{
+  "employees": [
+    {
+      "name": "Voltas",
+      "department": [
+        "HR",
+        "Sales",
+        "Finance"
+      ],
+      "gender": "male",
+      "profile": "../assets/profile-images/Ellipse -3.png",
+      "Notes": "add",
+      "salary": "331000",
+      "date": "2018-04-03T18:30:00.000Z",
+      "id": "WEDJQ5U"
+    },
+    {
+      "name": "Avi",
+      "department": [
+        "Sales",
+        "Engineer"
+      ],
+      "gender": "male",
+      "profile": "../assets/profile-images/Ellipse -8.png",
+      "Notes": "add Avi",
+      "salary": "456600",
+      "date": "2018-05-19T18:30:00.000Z",
+      "id": "jVZV09f"
+    },
+    {
+      "name": "Kiran",
+      "department": [
+        "Sales"
+      ],
+      "gender": "female",
+      "profile": "../assets/profile-images/Ellipse -7.png",
+      "Notes": "Kiran added",
+      "salary": "378100",
+      "date": null,
+      "id": "c8fDsDA"
+    },
+    {
+      "name": "Mark",
+      "department": [
+        "HR",
+        "Sales"
+      ],
+      "gender": "male",
+      "profile": "../assets/profile-images/Ellipse -3.png",
+      "Notes": "Adding Mark",
+      "salary": "430000",
+      "date": "2017-04-16T18:30:00.000Z",
+      "id": "kp_PAJr"
+    }
+  ]
+}
